@@ -1,4 +1,4 @@
-## Hi there, I am Mohammad - Portfolio 👋
+## Hi there, this is Mohammad, you can call me Ryan - Portfolio 👋
 
 ### Connect with me:
 
