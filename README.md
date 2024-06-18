@@ -18,6 +18,3 @@
 - ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 
-### Contact
-- [m.zrd91@gmail.com](mailto:m.zrd91@gmail.com)
-
