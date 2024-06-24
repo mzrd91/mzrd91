@@ -1,4 +1,4 @@
-## Hi there, this is Mohammad - Portfolio 👋
+## Hi there, this is Mohammad
 
 ### Connect with me:
 
