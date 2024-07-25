@@ -2,6 +2,7 @@
 
 ### Connect with me:
 
+- [Portfolio](https://mzrd91.github.io/)
 - [Email](m.zrd91@gmail.com)
 - [LinkedIn](https://linkedin.com/in/mohammad-zaroudi)
 
